@@ -4,7 +4,7 @@ I'm Daniel, a backend developer based in Poland.
 
 Focused on building practical and scalable systems.
 
-I enjoy turning ideas into reliable backend architectures and continuously refining my engineering skills by learning from real-world problems and experienced developers.
+I enjoy turning ideas into reliable backend architectures and continuously refining my engineering skills by learning from real-world problems and hands-on experimentation.
 
 ## 💻 Technical Focus
 
